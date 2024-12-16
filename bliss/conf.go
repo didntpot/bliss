@@ -1,0 +1,6 @@
+package bliss
+
+// Conf ...
+type Conf struct {
+	// ...
+}
